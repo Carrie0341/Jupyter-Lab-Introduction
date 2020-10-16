@@ -1,7 +1,7 @@
 # Jupyter-Lab主機: 
 資工新建 JupyterLab 主機開放使用中
 
-# yolov3/Darknet 安裝
+# (一) yolov3/Darknet 安裝
 開啟 terminal
 ## 首先將darknet從github上clone下来
 ### $ git clone https://github.com/pjreddie/darknet.git
