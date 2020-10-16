@@ -1,4 +1,4 @@
-# Jupyter-Lab主機: 
+# Jupyter-Lab主機: jupyter.csie.nuu.edu.tw
 資工新建 JupyterLab 主機開放使用: jupyter.csie.nuu.edu.tw
 
 # yolov3/Darknet 安裝
